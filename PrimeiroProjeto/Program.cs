@@ -33,6 +33,7 @@ void ExibirOpcoesDoMenu()
 //Chamando funções.
 ExibirMensagemDeBoasVindas();
 ExibirOpcoesDoMenu();
+
 Console.Write("\nDigite a sua opção: ");
 
 // Console.ReadLine (Serve para ler a opção que o usuário digitou).
